@@ -29,3 +29,5 @@ Output
 #############
 
 The output of this program is a new network file that includes the Neighbourhood Overlap weights for each edge in the network. 
+
+Contact us for any question: ali.choumane@ul.edu.lb
