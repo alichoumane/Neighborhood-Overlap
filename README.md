@@ -1,7 +1,9 @@
 # Neighborhood-Overlap
 This program implements the Neighbourhood Overlap measure "A new generalization of edge overlap to weighted networks". 
 In fact, this measure works equally for unweighted and weighted networks. 
+
 For more details read the article: https://arxiv.org/abs/2002.04426
+
 Choumane, A. (2020). A new generalization of edge overlap to weighted networks. IJAIA, Vol.11, No.1, January 2020.
 
 #############
